@@ -1,0 +1,8 @@
+.idea
+*.code-workspace
+images/*
+
+
+# skip binaries as well
+unixpdownloader*
+unixp
